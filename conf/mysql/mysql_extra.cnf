@@ -1,0 +1,5 @@
+[mysqld]
+#default-authentication-plugin=mysql_native_password
+
+#no warnings for missing default fields
+#sql_mode = ""
